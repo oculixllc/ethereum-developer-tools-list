@@ -400,6 +400,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [ERCx](https://ercx.runtimeverification.com) - Website, API, and VSCode extension to test tokens for ERC compliance to the standard and security properties.
 
 ### Security Tools
+* [HostDeFi Token Safety Scanner](https://hostdefi.com/safety) - Free keyless REST API grading tokens A+-F from on-chain risk signals (mint/freeze authority, liquidity, holder concentration) across 7 EVM chains
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
 * [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
